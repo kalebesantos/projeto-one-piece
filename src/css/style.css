@@ -4,6 +4,7 @@ body{
 
 main .personagem{
     display: none;
+    height: 100vh;
 }
 
 main .personagem.selecionado{
