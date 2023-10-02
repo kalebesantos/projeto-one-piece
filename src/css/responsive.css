@@ -40,4 +40,26 @@
     main .personagem .imagem{
         height: auto;
     }
+
+    .conteudo .logo{
+        width: 170px;
+        height: 75px;
+    }
+
+    .conteudo{
+        top: -30%;
+    }
+
+    .conteudo .nome-personagem{
+        font-size: 24px;
+    }
+
+    .botoes{
+        padding: 20px;
+        top: -20%;
+    }
+
+    .botoes .botao img{
+        max-width: 50px;
+    }
 }
